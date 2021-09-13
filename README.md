@@ -1,0 +1,2 @@
+# DotNetCore
+DotNetCore_Project_Practice
